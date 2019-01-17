@@ -15,7 +15,7 @@ public class Calc {
         choice=scanner.next().charAt(0);
         switch(choice)
         {
-            case '1' : System.out.print("Enter two Number: ");
+            case '1' : System.out.print("Enter two Number: ");//Adding
                         a=scan.nextFloat();
                         b=scan.nextFloat();
                         res= a+b;
