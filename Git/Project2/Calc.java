@@ -21,7 +21,7 @@ public class Calc {
                         res= a+b;
                         System.out.print("Result ="+res);
                         break;
-            case '2' :  System.exit(0);
+            case '2' :  System.exit(0);//Exiting
                        break;
             default : System.out.print("Invalid Choice");
             break;
